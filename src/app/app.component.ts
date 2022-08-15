@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public test(): void {
-    console.log('void');
+    console.log('void3');
   }
 }
